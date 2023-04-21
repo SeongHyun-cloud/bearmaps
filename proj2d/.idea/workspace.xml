@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:skeleton" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c41a087-ffee-421f-84bf-831429bc90fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/hw2/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2setup/GetEnvironmentVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2setup/GetEnvironmentVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/AList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/AList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj0/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/Body.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/ArrayHeapMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/ArrayHeapMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/ArrayHeapMinPQTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/ArrayHeapMinPQTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/KDTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/KDTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/KDTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/KDTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/NaivePointSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/NaivePointSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2ab/bearmaps/WeirdPointSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2ab/bearmaps/WeirdPointSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/AStarSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/AStarSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/Savefile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../proj3/Savefile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj3/byow/Core/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj3/byow/Core/MapGenerator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k0BFK3MkiqZ56KhYZ4wZQBxr85" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bearmaps/proj2ab" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bearmaps/proj2ab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AugmentedStreetMapGraph">
+    <configuration name="AugmentedStreetMapGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2d.AugmentedStreetMapGraph" />
+      <module name="proj2d" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2d.MapServer" />
+      <module name="proj2d" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTrie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2d.MapTrie" />
+      <module name="proj2d" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRouter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2d" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRouter" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRouterTiny" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2d" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRouterTiny" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AugmentedStreetMapGraph" />
+        <item itemvalue="Application.MapServer" />
+        <item itemvalue="Application.MapTrie" />
+        <item itemvalue="JUnit.TestRouterTiny" />
+        <item itemvalue="JUnit.TestRouter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c41a087-ffee-421f-84bf-831429bc90fd" name="Default Changelist" comment="" />
+      <created>1604827524206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604827524206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom" timestamp="1605295090159">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965506842" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/-1920.97.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1604960335550" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/-1920.97.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1604916124606" />
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090159" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center" timestamp="1605295090159">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965506830" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/-1920.97.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1604960335547" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/-1920.97.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1604916124604" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090159" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left" timestamp="1605295090159">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965506828" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/-1920.97.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1604960335546" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/-1920.97.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1604916124604" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090159" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right" timestamp="1605295090159">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965506841" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/-1920.97.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1604960335548" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/-1920.97.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1604916124605" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090159" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1605295090161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965473971" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/-1920.97.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1604915529726" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090161" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1605295090160">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.center/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965473970" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center/-1920.97.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1604915529722" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090160" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1605295090160">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.left/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965473969" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left/-1920.97.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1604915529722" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090160" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1605295090160">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.right/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965473971" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right/-1920.97.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1604915529725" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090160" />
+    <state width="1750" height="392" key="GridCell.Tab.2.bottom" timestamp="1605295090162">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.2.bottom/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965473974" />
+    <state width="1750" height="392" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090162" />
+    <state width="1750" height="392" key="GridCell.Tab.2.center" timestamp="1605295090161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.2.center/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965473973" />
+    <state width="1750" height="392" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090161" />
+    <state width="1750" height="392" key="GridCell.Tab.2.left" timestamp="1605295090161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.2.left/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965473972" />
+    <state width="1750" height="392" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090161" />
+    <state width="1750" height="392" key="GridCell.Tab.2.right" timestamp="1605295090161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.2.right/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604965473973" />
+    <state width="1750" height="392" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1605295090161" />
+    <state x="384" y="141" key="SettingsEditor" timestamp="1604943273834">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1604943273834" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1604957542140">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604957542140" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1604943709975">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/-1920.74.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1604943709975" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bearmaps/proj2d/server/handler/impl/RasterAPIHandler.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bearmaps/proj2d/MapTrie.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="placeName.equals(&quot;7 eleven&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/bearmaps/proj2d/MapTrie.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bearmaps/proj2d/MapTrie.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="placeName.equals(&quot;downtown berkeley ymca&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/bearmaps/proj2d/MapTrie.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="cleanName.equals(&quot;downtown berkeley ymca&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/bearmaps/proj2d/AugmentedStreetMapGraph.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

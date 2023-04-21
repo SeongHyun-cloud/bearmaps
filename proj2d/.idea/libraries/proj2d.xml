@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="proj2d">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../library-fa20/javalib/proj2d" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../library-fa20/javalib/proj2d" recursive="false" />
+  </library>
+</component>
